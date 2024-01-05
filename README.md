@@ -13,7 +13,7 @@ This repository contains my custom tmux configuration, including settings and pl
 2. After adding or modifying the configuration, run the following command to apply the changes:
 
    ```bash
-   tmux source ~/.config/tmux/tmux.config
+   tmux source ~/.config/tmux/tmux.conf
    ```
 
 3. Install plugins by pressing `<PrefixKey> + I` within tmux. (Note: The default `<PrefixKey>` is `Ctrl-b`)
